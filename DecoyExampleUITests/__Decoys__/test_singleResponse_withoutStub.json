@@ -1,0 +1,11 @@
+[
+  {
+    "stub" : {
+      "json" : [
+        "turgidly"
+      ],
+      "responseCode" : 200
+    },
+    "url" : "https:\/\/random-word-api.herokuapp.com\/word"
+  }
+]

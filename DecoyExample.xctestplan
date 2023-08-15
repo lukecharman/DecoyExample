@@ -1,0 +1,30 @@
+{
+  "configurations" : [
+    {
+      "id" : "A8D0D102-BFDA-478C-9648-9BF1CF5EA967",
+      "name" : "Test Scheme Action",
+      "options" : {
+
+      }
+    }
+  ],
+  "defaultOptions" : {
+    "codeCoverage" : false,
+    "targetForVariableExpansion" : {
+      "containerPath" : "container:DecoyExample.xcodeproj",
+      "identifier" : "A35E16FF2A8B628300438A0A",
+      "name" : "DecoyExample"
+    }
+  },
+  "testTargets" : [
+    {
+      "parallelizable" : true,
+      "target" : {
+        "containerPath" : "container:DecoyExample.xcodeproj",
+        "identifier" : "A35E171A2A8B628300438A0A",
+        "name" : "DecoyExampleUITests"
+      }
+    }
+  ],
+  "version" : 1
+}
