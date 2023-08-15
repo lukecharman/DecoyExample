@@ -10,7 +10,7 @@ struct DecoyExampleApp: App {
   }
 
   var session: URLSession {
-    Decoy.shared.setUp(session: Session(stubbing: .shared))
+    Decoy.shared.setUp(session: Session())
     return (Decoy.shared.session as? URLSession) ?? .shared
   }
 }

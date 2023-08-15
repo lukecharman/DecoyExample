@@ -2,19 +2,21 @@
   {
     "url" : "https:\/\/random-word-api.herokuapp.com\/word",
     "stub" : {
-      "responseCode" : 200,
       "json" : [
         "STUBBED 1"
-      ]
-    }
+      ],
+      "responseCode" : 200
+    },
+    "recordedAt" : "2023-08-15T11:04:37Z"
   },
   {
     "url" : "https:\/\/random-word-api.herokuapp.com\/word",
+    "recordedAt" : "2023-08-15T11:04:18Z",
     "stub" : {
-      "responseCode" : 200,
       "json" : [
         "STUBBED 2"
-      ]
+      ],
+      "responseCode" : 200
     }
   }
 ]
