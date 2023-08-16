@@ -1,25 +1,27 @@
 [
   {
-    "recordedAt" : "2023-08-15T11:03:02Z",
-    "url" : "https:\/\/random-word-api.herokuapp.com\/languages",
+    "expiresAt" : "2023-08-23T07:25:37Z",
     "stub" : {
+      "responseCode" : 200,
       "json" : [
         "es",
-        "zh",
         "de",
-        "it"
-      ],
-      "responseCode" : 200
-    }
+        "it",
+        "zh"
+      ]
+    },
+    "recordedAt" : "2023-08-16T07:25:37Z",
+    "url" : "https:\/\/random-word-api.herokuapp.com\/languages"
   },
   {
-    "url" : "https:\/\/random-word-api.herokuapp.com\/word",
     "stub" : {
+      "responseCode" : 200,
       "json" : [
-        "STUBBED"
-      ],
-      "responseCode" : 200
+        "decile"
+      ]
     },
-    "recordedAt" : "2023-08-15T11:03:02Z"
+    "url" : "https:\/\/random-word-api.herokuapp.com\/word",
+    "recordedAt" : "2023-08-16T07:25:37Z",
+    "expiresAt" : "2023-08-23T07:25:37Z"
   }
 ]

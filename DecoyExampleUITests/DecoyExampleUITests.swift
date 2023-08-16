@@ -5,7 +5,7 @@ import DecoyXCUI
 
 class DecoyExampleUITests: DecoyUITestCase {
   override func setUp() {
-    super.setUpDecoy(mode: .stubbing)
+    super.setUpDecoy(mode: .recording(7))
   }
 
   func test_singleResponse_stubbed() {

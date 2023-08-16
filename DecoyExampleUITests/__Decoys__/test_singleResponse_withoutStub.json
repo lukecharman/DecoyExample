@@ -1,0 +1,13 @@
+[
+  {
+    "stub" : {
+      "json" : [
+        "dolichocephaly"
+      ],
+      "responseCode" : 200
+    },
+    "recordedAt" : "2023-08-16T07:25:28Z",
+    "url" : "https:\/\/random-word-api.herokuapp.com\/word",
+    "expiresAt" : "2023-08-23T07:25:28Z"
+  }
+]
